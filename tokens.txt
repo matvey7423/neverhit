@@ -1,3 +1,3 @@
-token123
-abc777
+token123/8D596305C1EC6F81
+abc777/0B108DA7DDE32E8A
 my_token_x
